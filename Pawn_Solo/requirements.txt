@@ -1,0 +1,5 @@
+python-chess
+numpy
+tensorflow
+
+#a sense of pity
